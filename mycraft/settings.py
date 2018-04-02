@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'apps.themes',
     'apps.epics',
     'apps.stories',
+    'apps.products',
 ]
 
 MIDDLEWARE = [

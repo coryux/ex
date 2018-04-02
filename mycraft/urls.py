@@ -25,4 +25,5 @@ urlpatterns = [
     path('themes',include('apps.themes.urls')),
     path('epics',include('apps.epics.urls')),
     path('stories',include('apps.stories.urls')),
+    path('products',include('apps.products.urls')),
 ]
